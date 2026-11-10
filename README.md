@@ -70,5 +70,5 @@ Email-нотифікації:
 
 ## Репозиторії
 
-- **Backend:** https://github.com/katyamarkovska42-code/back
-- **Frontend:** https://github.com/katyamarkovska42-code/frontend
+- **Backend:** https://github.com/katyamarkovska42-code/seaflix-backend
+- **Frontend:** https://github.com/katyamarkovska42-code/seaflix-frontend
