@@ -6,10 +6,7 @@ class Film(models.Model):
     original_title = models.CharField(max_length=255, blank=True)
     release_year = models.PositiveSmallIntegerField()
     description = models.TextField(blank=True)
-    duration_minutes = models.PositiveSmallIntegerField(
-        null=True,
-        blank=True
-    )
+    duration_minutes = models.PositiveSmallIntegerField()
     country = models.CharField(max_length=100, blank=True)
     poster_url = models.URLField(blank=True)
 
