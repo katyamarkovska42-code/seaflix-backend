@@ -150,7 +150,7 @@ Seatflix — це не просто платформа для перегляду
 
 ## Репозиторії
 
-- Backend: [Seatflix Backend](https://github.com/katyamarkovska42-code/seatflix-backend)
-- Frontend: [Seatflix Frontend](https://github.com/katyamarkovska42-code/seatflix-frontend)
+- Backend: [Seatflix Backend](https://github.com/katyamarkovska42-code/seaflix-backend)
+- Frontend: [Seatflix Frontend](https://github.com/katyamarkovska42-code/seaflix-frontend)
 
 ---
